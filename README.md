@@ -2,7 +2,7 @@
 Desenvolvedor apaixonado por Programação e Desenvolvimento web. 
 
 ### Tecnologias que uso:
-- **Linguagens**: ![Python](https://img.shields.io/badge/Python-white?logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+- **Linguagens**: ![Python](https://img.shields.io/badge/Python-white?logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript)
 - **Frameworks**: ![React](https://img.shields.io/badge/React-blue?logo=react) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss) ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron)
 - **Ferramentas**: ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 
