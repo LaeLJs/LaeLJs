@@ -14,7 +14,7 @@ Desenvolvedor apaixonado por Programação e Desenvolvimento web.
   <br>
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) |  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
-![](https://github-readme-stats.vercel.app/api?username={LaeLJs}&theme=blue-green)
+
   
 **📫 Como me encontrar:**
 [Instagram](https://www.instagram.com/davileal.dev/) | [Twitter](https://x.com/DaviLealDev)
